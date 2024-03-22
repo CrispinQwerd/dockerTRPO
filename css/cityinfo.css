@@ -1,0 +1,39 @@
+.cityinfo {
+    display: flex;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+.citylogo {
+    border: 1px solid black;
+    width: fit-content;
+    padding: 10px;
+    margin-right: 20px;
+
+}
+
+.citynamename {
+    font-size: 24px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center; 
+}
+
+.citydesc {
+    text-align: justify; 
+    padding-top: 10px;
+    
+}
+
+.button {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+}
+.namedesc
+{
+    display: block;
+}

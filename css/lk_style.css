@@ -1,0 +1,48 @@
+#main
+{
+    height: 100vh;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#header
+{
+    height: 150px;
+    padding: 10px;
+}
+
+#wrd
+{
+    display: flex;
+    width: fit-content;
+    margin-left: auto;
+    margin-top: -150px;
+}
+#logo
+{
+    margin-left: auto;
+}
+
+#avatar
+{
+    width: fit-content;
+    padding: 10px;
+    
+}
+
+#content
+{
+    border-top: solid black;
+    padding: 10px;
+    
+}
+
+#sidebar
+{ 
+    display: flex;
+    margin-left: auto;
+    padding-right: 10px;
+    width: fit-content;
+}

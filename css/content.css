@@ -1,0 +1,65 @@
+.all
+{
+    display: flex; 
+    flex-direction: column;
+}
+
+.block
+{
+    display: flex;
+    margin: 10px; 
+    padding: 10px;
+    width: 500px; 
+     
+}
+
+.logo
+{
+    width:fit-content; 
+ 
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    padding: 5px; 
+    text-align: center
+}
+
+.blockblock
+{
+    display:block; 
+    width:fit-content; 
+    height:fit-content; 
+    border: 1px solid black;
+    text-align: center;
+}
+
+.cityname
+{
+    display: inline-block; 
+    width:fit-content; 
+    height:fit-content; 
+    padding: 10px;
+}
+
+.regionname
+{
+    display: inline-block;
+    width:fit-content; 
+    height:fit-content; 
+    border-left: 1px solid black; 
+    padding: 10px;
+}
+
+.description
+{
+    padding: 5px;
+    width:400px; 
+    height:fit-content; 
+    border-top: 1px solid black; 
+    text-align: justify;
+}
+
+#content
+{
+    display: flex;
+}

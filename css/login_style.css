@@ -1,0 +1,51 @@
+#main
+{
+    height: 100vh;
+    width: 1000px;
+    border: solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#header
+{
+    border-bottom: solid black;
+    height: 150px;
+    padding: 10px;
+}
+
+#wrd
+{
+    display: flex;
+    padding: 10px;
+    width: fit-content;
+
+}
+
+
+#content
+{
+    justify-content: space-between;
+    width: fit-content;
+    display: flex;
+}
+
+#sidebar
+{ 
+    display: flex;
+    margin-left: auto;
+    padding-right: 10px;
+    width: 150px;
+    height: 100vh;
+}
+
+.crqd
+{
+    width: fit-content;
+}
+
+.loglog
+{
+    display: block;
+}
